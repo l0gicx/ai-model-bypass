@@ -1,4 +1,4 @@
-# DeepSeek "SEEK" (and other "Jailbreaks")
+# DeepSeek Jailbreak
 
 - <https://chat.deepseek.com/>
 
