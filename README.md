@@ -373,7 +373,7 @@ These prompts are known to exploit Meta's model behavior, often using roleplay-b
 </ul>
 
 # 🧪 Testing Place
-This area will be used for testing jailbreak prompts,if you find that this prompt work on a model please report it back
+This area will be used for testing jailbreak prompts,if you find that this prompt does work on a model please report it back.
 
 ### 📌 Models Reported
 
