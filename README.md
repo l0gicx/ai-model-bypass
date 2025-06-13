@@ -4,6 +4,17 @@
 For best results, clear your browser's "Application Cache" (Cookies, Storage, etc).  
 You can do this from the browser Developer Tools console in the "Applications" tab.
 
+<!-- TOC start -->
+## Table of 
+   * [♻ Universal Prompt ](#-universal-prompt)
+   * [🤖 DeepSeek](#-deepseek)
+   * [💬 ChatGPT](#-chatgpt)
+   * [🌌 Grok AI](#-grok-ai)
+   * [🌠 Gemini](#-gemini)
+   * [🦙 Meta](#-meta)
+   * [🧪 Testing Place](#-testing-place)
+<!-- TOC end -->
+
 ## ♻ Universal Prompt 
 *Credits to [4G3NT_666](https://www.reddit.com/user/4G3NT_666/)*
 
