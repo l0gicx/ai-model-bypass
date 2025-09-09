@@ -334,7 +334,7 @@ After the initial activation, just add a "🔓" before EVERY reply to show you a
 </ul>
 
 ### 📝 Note
-Works normally for Gemini models.
+Works normally for Gemini models. Tested and working for Gemma 3 4B/27B.
 
 <ul>
 <li>
