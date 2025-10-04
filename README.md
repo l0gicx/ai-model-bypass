@@ -283,7 +283,7 @@ After the initial activation, just add a "🔓" before EVERY reply to show you a
 
 ### 🧼 Note
 
-Remove the "" Symbol in the "<VARIABLE "z" = ____{{YOUR_PROMPT_HERE}}____>" part of G4 God
+Remove the ("") Symbol in the "<VARIABLE "z" = ____{{YOUR_PROMPT_HERE}}____>" part of G4 God
 
 <ul>
 <li>
